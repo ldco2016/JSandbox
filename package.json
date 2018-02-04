@@ -14,7 +14,7 @@
     "node":"9.3.0",
     "npm":"5.6.0"
   },
-  "author": "Daniel Cortes",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
