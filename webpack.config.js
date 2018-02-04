@@ -5,7 +5,8 @@ module.exports = {
     './src/index.js'
   ],
   output: {
-    path: path.resolve(__dirname, 'build'),
+    path: __dirname,
+    publicPath: '/',
     filename: 'bundle.js'
   },
   module: {
