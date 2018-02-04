@@ -27,7 +27,6 @@
     "jsdom": "^8.1.0",
     "mocha": "^2.4.5",
     "react-addons-test-utils": "^0.14.7",
-    "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
@@ -44,6 +43,7 @@
     "react-router": "^2.0.1",
     "react-split-pane": "^0.1.42",
     "redux": "^3.0.4",
-    "reselect": "^2.5.1"
+    "reselect": "^2.5.1",
+    "webpack": "^1.12.9"
   }
 }
