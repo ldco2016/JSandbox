@@ -5,7 +5,7 @@ const app = express();
 
 app.use(express.static(__dirname));
 
-app.get('bundle.js', (req, res) => {
+app.get('/bundle.js', (req, res) => {
   res.sendFile(path.resolve(__dirname, 'bundle.js'))
 });
 
