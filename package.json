@@ -6,10 +6,7 @@
   "repository": "git@github.com:ldco2016/JSandbox.git",
   "scripts": {
     "dev": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
-    "build:dev":"webpack",
-    "build:prod":"webpack -p --env production",
-    "start":"node server.js",
-    "heroku-postbuild":"npm run build:prod"
+    "start":"node server.js"
   },
   "engines": {
     "node": "9.3.0",
