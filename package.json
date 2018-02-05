@@ -6,6 +6,7 @@
   "repository": "git@github.com:ldco2016/JSandbox.git",
   "scripts": {
     "dev": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+    "build":"webpack --watch",
     "start":"node server.js"
   },
   "engines": {
