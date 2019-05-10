@@ -43,6 +43,7 @@
     "react-split-pane": "^0.1.42",
     "redux": "^3.0.4",
     "reselect": "^2.5.1",
+    "url-parse": "1.4.3",
     "webpack": "^1.12.9"
   }
 }
